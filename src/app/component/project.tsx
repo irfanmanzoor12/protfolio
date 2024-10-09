@@ -10,13 +10,13 @@ const myProjects = [
   name:"Ecommerce Website",
   details:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tempora voluptates ipsam quo dolorem hic recusandae ipsa ipsum aliquid cupiditate, illum quis mollitia! Quisquam, deleniti minus magnam minima cupiditate nisi!",
   link: "#",
-  image: "",
+  image: "ecom.jpg",
  },
  {
   name:"Calculator by Typescript",
   details:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tempora voluptates ipsam quo dolorem hic recusandae ipsa ipsum aliquid cupiditate, illum quis mollitia! Quisquam, deleniti minus magnam minima cupiditate nisi!",
   link: "#",
-  image: "../../asset/cal.webp",
+  image: "cal.webp",
  },
  {
   name:"Object Oreinted Pragramming",
