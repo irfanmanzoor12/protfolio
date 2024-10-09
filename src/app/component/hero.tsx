@@ -27,7 +27,7 @@ const Hero = () => {
       </h1>
       <div className='w-[40px] h[500px] bg-blue-100'></div>
       <p className="mb-8 leading-relaxed">
-      Hi! I’m a skilled website developer with expertise in HTML, CSS, JavaScript, React, and Node.js. I create responsive, user-friendly websites that are optimized for performance and SEO. With a focus on clean, efficient code, I’m ready to bring your ideas to life and help your business thrive online.
+      Hi! I am a skilled website developer with expertise in HTML, CSS, JavaScript, React, and Node.js. I create responsive, user-friendly websites that are optimized for performance and SEO. With a focus on clean, efficient code, I’m ready to bring your ideas to life and help your business thrive online.
       </p>
       
       <div className="flex justify-center">
@@ -44,7 +44,7 @@ const Hero = () => {
         alt="hero"
         width={300}
         height={300}
-        src={require("../../../asset/picture.jpg")}
+        src={`require("../../../asset/picture.jpg")`}
       />
     </div>
   </div>

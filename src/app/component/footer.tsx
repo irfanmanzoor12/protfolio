@@ -1,6 +1,4 @@
 import React from 'react'
-import Image from "next/image";
-import Typewriter from 'typewriter-effect';
 import { FaGitSquare, FaLinkedin, FaYoutubeSquare } from "react-icons/fa";
 import Link from "next/link";
 

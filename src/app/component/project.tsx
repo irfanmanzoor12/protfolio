@@ -5,7 +5,7 @@ import Image from 'next/image';
 
 const Projects = () => {
 // my projects Here
-let projects = [
+const myProjects = [
   {
   name:"Ecommerce Website",
   details:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio tempora voluptates ipsam quo dolorem hic recusandae ipsa ipsum aliquid cupiditate, illum quis mollitia! Quisquam, deleniti minus magnam minima cupiditate nisi!",
@@ -53,7 +53,7 @@ let projects = [
            
     <div className="flex flex-wrap -m-4">
       {/* My Project here  */}
-      {projects.map((item, i)=>(
+      {myProjects.map((item, i)=>(
       <div key={i} className="lg:w-1/3 sm:w-1/2 p-4">
         <div className="flex relative">
           <Image

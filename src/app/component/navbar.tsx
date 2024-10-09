@@ -9,7 +9,7 @@ const Navbar = () => {
   <div className="container mx-auto flex flex-wrap p-2 flex-col md:flex-row items-center">
     <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
     <Image 
-    src={require ("../../../asset/logo.jpg")}
+    src={`require("../../../asset/logo.jpg")`}
     alt='Its Irfan' width={100} height={100}
     className="w-[100px]" />
       <span className="ml-3 text-xl">IImaginations and VVisual Developers
